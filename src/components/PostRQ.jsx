@@ -3,13 +3,20 @@ import { useQuery } from '@tanstack/react-query'
 import axios from 'axios'
 import { Link } from 'react-router-dom'
 
+
+
+const fetchPosts = () =>{
+      // return axios.get("http://localhost:4000/fruits")
+   //   console.log("page ::: " , pageParam)
+       return axios.get("http://localhost:4000/posts")
+
+    }
+
 const PostRQ = () => {
 
-  const {data,isLoading,isError,error} = useQuery({
+  const {data,isLoading,isError} = useQuery({
    queryKey : ["posts"],
-   queryFn : () =>{
-      return axios.get("http://localhost:4000/posts")
-   },
+   queryFn : fetchPosts,
   //  staleTime:5000
   refetchInterval:1000
   }) 
