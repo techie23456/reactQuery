@@ -1,0 +1,101 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "<<<<<<Sunder Pichai Interview>>>>",
+      "body": "Disscussing The future Of Tech"
+    },
+    { 
+      "id": "2",
+      "title": "Amar Pichai Interview",
+      "body": "Disscussing The future Of Tech"
+    },
+    {
+      "id": "3",
+      "title": "Aman Pichai Interview",
+      "body": "Disscussing The future Of Tech"
+    }
+  ],
+  "fruits":[
+    {
+        "id": "1",
+        "name": "https://png.pngtree.com/png-clipart/20231016/original/pngtree-fresh-fruit-apple-png-image_13318561.png"
+    },
+     {
+        "id": "2",
+        "name": "https://img.magnific.com/free-psd/fresh-ripe-apricot-with-dewy-green-leaf-stem-against-stark-black-background_84443-59681.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+     {
+        "id": "3",
+        "name": "https://thumbs.dreamstime.com/b/bunch-bananas-6175887.jpg"
+    },
+    {
+        "id": "4",
+        "name": "https://plus.unsplash.com/premium_photo-1724250449759-f9bbb5fd4f63?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3JhcGV8ZW58MHx8MHx8fDA%3D"
+    },
+     {
+        "id": "5",
+        "name": "https://png.pngtree.com/png-vector/20250126/ourmid/pngtree-whole-and-slice-guava-fruit-isolated-on-transparent-background-png-image_15341575.png"
+    },
+     {
+        "id": "6",
+        "name": "https://img.magnific.com/free-vector/realistic-berries-composition-with-isolated-image-cherry-with-ripe-leaves-blank-background-vector-illustration_1284-66040.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+     {
+        "id": "7",
+        "name": "https://img.magnific.com/free-psd/delicious-mango-studio_23-2151843107.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+     {
+        "id": "8",
+        "name": "https://www.shutterstock.com/image-photo/fresh-ripe-lychee-fruit-bunch-260nw-2313812343.jpg"
+    },
+     {
+        "id": "9",
+        "name": "https://png.pngtree.com/png-vector/20240906/ourmid/pngtree-realistic-pineapple-clipart-illustration-tropical-fruit-graphic-png-image_13764427.png"
+    },
+    {
+        "id": "10",
+        "name": "https://cdn.pixabay.com/photo/2018/07/03/10/46/berry-3513546_640.jpg"
+    },
+     {
+        "id": "11",
+        "name": "https://static.vecteezy.com/system/resources/thumbnails/015/606/509/small/sweet-orange-fruit-photo.jpg"
+    },
+     {
+        "id": "12",
+        "name": "https://static.vecteezy.com/system/resources/thumbnails/033/064/927/small/papaya-pawpaw-in-red-orange-and-green-color-shape-for-background-design-free-vector.jpg"
+    },
+     {
+        "id": "13",
+        "name": "https://cdn.britannica.com/45/126445-050-4C0FA9F6/Kiwi-fruit.jpg"
+    },
+     {
+        "id": "14",
+        "name": "https://images.stockcake.com/public/e/0/1/e01ede9f-e42d-4db1-8e6b-9e806b3bf3e6_large/ripe-pomegranate-halves-stockcake.jpg"
+    },
+     {
+        "id": "15",
+        "name": "https://png.pngtree.com/png-vector/20230726/ourmid/pngtree-lemon-is-splashing-with-juice-png-image_6748831.png"
+    },
+    {
+        "id": "16",
+        "name": "https://png.pngtree.com/png-clipart/20240828/original/pngtree-eggplant-brinjal-fresh-vegetable-png-image_15876815.png"
+    },
+     {
+        "id": "17",
+        "name": "https://images.unsplash.com/photo-1588413335653-34b770bca7c1?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29jb251dHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+     {
+        "id": "18",
+        "name": "https://images.stockcake.com/public/d/6/1/d614f56b-8227-4cda-a894-32f9b422bfd4_large/fresh-green-apple-stockcake.jpg"
+    },
+     {
+        "id": "19",
+        "name": "https://t3.ftcdn.net/jpg/07/15/29/66/360_F_715296690_JRaWpNwQLCwqo6vBP8qC76xyfszBvffM.jpg"
+    },
+     {
+        "id": "20",
+        "name": "https://organicbazar.net/cdn/shop/products/Untitled-design-2023-03-21T145058.317.jpg?v=1756127743&width=1445"
+    }
+  ]
+}
