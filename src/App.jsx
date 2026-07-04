@@ -28,6 +28,9 @@ function App() {
      <li>
       <Link to="/rq-posts">RQ Posts</Link>
      </li>
+      <li>
+      <Link to="/paginated-fruits">Paginated Fruits</Link>
+     </li>
     </ul>
   </nav>
 
