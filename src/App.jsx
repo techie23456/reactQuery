@@ -4,6 +4,7 @@ import PostRQ from './components/PostRQ'
 import PostDetailsRQ from './components/PostDetailsRQ'
 import PaginatedQueries from './components/PaginatedQueries'
 import InfiniteScroll from './components/InfiniteScroll'
+import PostingData from './components/PostingData'
 import { BrowserRouter,Routes,Route,Link } from 'react-router-dom'
 import './App.css'
 
@@ -31,6 +32,9 @@ function App() {
       <li>
       <Link to="/paginated-fruits">Paginated Fruits</Link>
      </li>
+       <li>
+      <Link to="/posting-data">Posting Data</Link>
+     </li>
     </ul>
   </nav>
 
@@ -41,6 +45,7 @@ function App() {
     <Route exact path ="/rq-posts/:postID" element = {<PostDetailsRQ /> } />
      <Route exact path ="/paginated-fruits" element = {<PaginatedQueries /> } />
      <Route exact path ="/infinite-scroll" element = {<InfiniteScroll /> } />
+      <Route exact path ="/posting-data" element = {<PostingData/> } />
   </Routes>
  </div>
  </BrowserRouter>
